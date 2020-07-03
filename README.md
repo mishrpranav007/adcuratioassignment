@@ -1,4 +1,4 @@
-### This is an assignment submitted for the online coding round of Adcuration by Pranav Kumar Mishra.
+### This is an assignment submitted for the online coding round of Adcuratio by Pranav Kumar Mishra.
 
 
 
