@@ -65,10 +65,6 @@ class Dashboardcontainer extends Component {
     })
  }
 
- handleLogoutButton(){
-     console.log(1);
-     this.props.history.push("/");
- }
 
  render() {
     return (
@@ -82,7 +78,7 @@ class Dashboardcontainer extends Component {
              </tbody>
           </table>
 
-          <button className="logoutBtn" onClick={this.handleLogoutButton}>Logout</button>
+          <button className="logoutBtn">Logout</button>
        </div>
     )
  }
